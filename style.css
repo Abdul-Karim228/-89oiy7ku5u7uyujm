@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+footer {
+    background-color: black;
+    padding: 5px;
+}
+
+
+footer p {
+    background-color: white;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+img {
+    border: 3px groove darkblue;
+    margin-right: 5px;
+}
